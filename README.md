@@ -3,7 +3,8 @@ Lorenzo Nopre Alarkon
 
 LG **Brebeuf**
 
-http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS-OZTPpZNsnOchlOMmYsSeMprn5sYU4kdOZGPL0_ksM2nHGegFrzLhGlQMBF-amQqPRFs4DzbLrI_o5gA
+![image](https://user-images.githubusercontent.com/122419166/212816023-aaedde5a-da42-461c-9877-9123b14a4b3c.png)
+
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
